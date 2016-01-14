@@ -7,7 +7,7 @@ using CL_Bedrijf.Interfaces;
 
 namespace CL_Bedrijf
 {
-    //Events: stap 1, functiedefinitie van event maken in vorm van een delegate
+    //Events: stap 1, functiedefinitie van event maken in vorm van een delegate testje
     public delegate void AchternaamIsLeeg_Delegate();
 
     public abstract class Persoon: IVolledigenaam
